@@ -65,12 +65,12 @@ subplot(3,1,3);
 plot(Pm_vals, Rmax_Pm, 'b', 'LineWidth', 2);
 ```
 # Output
+<img width="761" height="684" alt="Screenshot 2025-11-26 090433" src="https://github.com/user-attachments/assets/8caa377a-99bc-426d-9905-cc059c7aad79" />
 
-<img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/214116d3-1370-4c37-8ef4-730d132927a3" />
 
 # Manual Calculation
+![WhatsApp Image 2025-11-26 at 9 03 48 AM](https://github.com/user-attachments/assets/94fafd53-01e4-4f37-b4b9-4b1944fd3167)
 
-![RRE](https://github.com/user-attachments/assets/abe54203-410c-4cd9-a2ec-05fe16a24843)
 
 # Result
 Thus, the maximum range of a radar system calculated using the Radar Range Equation is successfully verified using Scilab programming.
